@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.hospital</groupId>
-    <artifactId>medicare</artifactId>
+    <artifactId>Caduceus</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Medicare</name>
+    <name>Caduceus</name>
     <description>Gestion hospitalière - Servlet/JSP</description>
 
     <properties>
@@ -44,7 +44,7 @@
     </dependencies>
 
     <build>
-        <finalName>medicare</finalName>
+        <finalName>Caduceus</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>

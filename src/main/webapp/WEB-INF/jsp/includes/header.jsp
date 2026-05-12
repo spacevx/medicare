@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medicare</title>
+    <title>Caduceus</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4"></script>
     <script src="https://unpkg.com/lucide@latest"></script>
@@ -44,7 +44,7 @@
                 <i data-lucide="heart-pulse" class="w-5 h-5 text-primary-900"></i>
             </div>
             <div>
-                <h1 class="text-[17px] font-bold text-white tracking-tight leading-tight">Medicare</h1>
+                <h1 class="text-[17px] font-bold text-white tracking-tight leading-tight">Caduceus</h1>
                 <p class="text-[11px] text-primary-300 font-medium">Gestion Hospitaliere</p>
             </div>
         </div>
@@ -82,7 +82,7 @@
     </nav>
 
     <div class="px-5 py-3 border-t border-white/10">
-        <p class="text-[11px] text-primary-400 font-medium">Medicare v1.0</p>
+        <p class="text-[11px] text-primary-400 font-medium">Caduceus v1.0</p>
     </div>
 </aside>
 
