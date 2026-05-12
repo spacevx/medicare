@@ -1,0 +1,5 @@
+nom,prenom,dateNaissance,matricule,service,specialite
+Dupont,Jean,1975-03-15,MED001,Cardiologie,Cardiologue
+Martin,Sophie,1980-07-22,MED002,Urgences,Urgentiste
+Bernard,Pierre,1970-11-08,MED003,Chirurgie,Chirurgien
+Leroy,Claire,1985-01-30,MED004,Pediatrie,Pediatre

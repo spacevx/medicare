@@ -1,0 +1,7 @@
+nom,prenom,dateNaissance,numeroSecu,etatSante,admis,antecedents
+Lambert,Alice,1995-04-10,195041012345,Stable,true,Asthme chronique;Allergie penicilline
+Thomas,Hugo,1982-08-05,182080567890,Stable,true,
+Robert,Marie,1968-12-20,168121234567,Critique,true,Hypertension arterielle;Diabete type 2;Antecedent AVC 2019
+Richard,Paul,2001-06-15,201061598765,En observation,true,
+Durand,Julie,1990-03-28,190032845612,Stable,true,
+Morel,Antoine,1955-10-02,155100298745,Critique,true,Insuffisance cardiaque

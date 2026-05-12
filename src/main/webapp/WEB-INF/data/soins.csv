@@ -1,0 +1,9 @@
+type,patientIndex,medecinIndex,description,cout,diagnostic,niveauUrgence,salle
+consultation,0,0,Bilan cardiaque annuel,75,RAS - rythme sinusal normal,,
+consultation,1,1,Douleur thoracique,60,Nevralgie intercostale,,
+consultation,3,3,Suivi post-operatoire,50,Evolution favorable,,
+consultation,4,0,Palpitations,75,Extrasystoles benignes,,
+consultation,2,0,Controle tension,55,TA elevee - ajustement traitement,,
+chirurgical,2,2,Pontage coronarien,8500,,5,Bloc A
+chirurgical,5,2,Pose stent cardiaque,6200,,4,Bloc B
+chirurgical,1,1,Appendicectomie,3200,,3,Bloc C

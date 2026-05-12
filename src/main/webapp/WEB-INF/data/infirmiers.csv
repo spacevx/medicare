@@ -1,0 +1,5 @@
+nom,prenom,dateNaissance,matricule,service
+Moreau,Lucie,1990-05-12,INF001,Cardiologie
+Petit,Marc,1988-09-03,INF002,Urgences
+Roux,Emma,1992-02-18,INF003,Chirurgie
+Simon,Lucas,1995-06-25,INF004,Pediatrie
